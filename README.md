@@ -22,11 +22,8 @@
 <a href="https://www.linkedin.com/in/mashhoor-khan325" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashhoor-khan" height="30" width="40" style="max-width: 100%;"></a>
 <!-- <a href="https://stackoverflow.com/users/19053856" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19053856" height="30" width="40" style="max-width: 100%;"></a> -->
 <a href="https://www.instagram.com/_mashhoorkhan_/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mashhoorkhan_" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://leetcode.com/mashhoorkhan325pc/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mashhoorkhan325" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/Km Dev#2364" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Km Dev#2364" height="30" width="40" style="max-width: 100%;"></a>
 </p> -->
 <a href="https://www.facebook.com/profile.php?id=100008305660368&mibextid=ZbWKwL" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_mashhoorkhan_" height="30" width="40" style="max-width: 100%;"></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashhoorKhanP&show_icons=true&locale=en&layout=compact" alt="albrinndr" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashhoorKhanP&show_icons=true&locale=en&layout=compact" alt="albrinndr" /></p>
