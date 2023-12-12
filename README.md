@@ -7,7 +7,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently an intern at Brototype </strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/MashhoorKhanP"></a>https://github.com/MashhoorKhanP</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/MashhoorKhanP?tab=repositories"></a>https://github.com/MashhoorKhanP?tab=repositories</p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:mashhoorkhan325@gmail.com">mashhoorkhan325@gmail.com</a></strong></p>
