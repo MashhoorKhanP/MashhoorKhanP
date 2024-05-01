@@ -70,7 +70,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg](https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png"
+      src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png"
       alt="next.js" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
