@@ -112,7 +112,7 @@
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
   </p>
-<div align="center">
+<div align="top">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MashhoorKhanP&show_icons=true&locale=en" alt="MashhoorKhanP" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashhoorKhanP&show_icons=true&locale=en&layout=compact" alt="MashhoorKhanP" /></p>
 
