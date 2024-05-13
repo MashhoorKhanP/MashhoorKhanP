@@ -113,6 +113,7 @@
   </a>
   </p>
 
-  <p><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=MashhoorKhanP&show_icons=true&locale=en&layout=compact"
-      alt="mashhoorkhan" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashhoorKhanP&show_icons=true&locale=en&layout=compact" alt="MashhoorKhanP" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MashhoorKhanP&show_icons=true&locale=en" alt="MashhoorKhanP" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MashhoorKhanP&" alt="MashhoorKhanP" /></p>
