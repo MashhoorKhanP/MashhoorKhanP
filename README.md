@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MashhoorKhanP&label=Profile%20views&color=0e75b6&style=flat" alt="MashhoorKhanP" /> </p>
 <h1 align="center" dir="auto"><a id="user-content-hi--im-mahir-minhaj-k" class="anchor" aria-hidden="true"
     href="#hi--im-mahir-minhaj-k"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
       height="16" aria-hidden="true">
